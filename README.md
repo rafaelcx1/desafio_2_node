@@ -1,3 +1,3 @@
 # Docker - Desafio #2 - NodeJs
 
-Execução: docker compose up -d
+Execução: docker compose up --build
